@@ -17,7 +17,7 @@ def show_entries():
 open("journal.txt", "w").close()
 
 # Add entries
-add_entry("My name is Kabeer.")
+add_entry("My name is syed adil.")
 add_entry("I am a curious learner.")
 add_entry("I like to play video games.")
 

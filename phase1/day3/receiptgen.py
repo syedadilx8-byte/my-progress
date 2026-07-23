@@ -9,9 +9,9 @@ def build_receipt(details):
 
 customers = [
     {
-        "Name": "Kabeer",
-        "Age": 25,
-        "Amount": 220,
+        "Name": "syed adil",
+        "Age": 20,
+        "Amount": 250,
         "Type": "Food",
         "Payment": "Cash"
     },
