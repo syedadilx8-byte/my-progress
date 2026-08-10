@@ -1,0 +1,5 @@
+Ayaan,6500
+Usman,9200
+Rahul,7800
+Sara,10500
+Priya,8600
